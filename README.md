@@ -4,8 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoserra17&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
 
-- 🔭 Hoje trabalho com análise e controle de informações financeiras.
-- 🌱 Estudando front
+- 🔭 Tratamento, Análise e controle de informações financeiras.
+- 🌱 Constantemente atualizando conhecimentos de negócios e estatística. 
 - 😄 Pronouns: ele/dele
 
 
