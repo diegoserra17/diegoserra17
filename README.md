@@ -1,18 +1,14 @@
 ### Olá, visitante! Aqui você encontrará código, café e projetos que nascem entre um commit e outro.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoserra17&show_icons=true&theme=dracula&hide=contribs,prs)](https://github.com/diegoserra17/github-readme-stats&hide=contribs,prs)
+- Aqui, Python, Power BI e R são meus aliados para transformar números em decisões: automatizo processos com a flexibilidade do Python, mergulho em análises estatísticas com o rigor do R e crio dashboards no Power BI que fariam até o Excel sorrir de inveja.
+- Busco extrair insights de bancos de dados, para desvendar tendências ou simplesmente falar sobre a magia de transformar datasets em estratégias, vamos trocar ideias (e uns códigos)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoserra17&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
+
 ---
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoserra17&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=diegoserra17&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
----
-- 🔭 Tratamento, Análise e controle de informações financeiras.
-- 🌱 Constantemente atualizando conhecimentos de negócios e estatística. 
-- 😄 Pronouns: ele/dele
-
 ---
          
 <div display="inline">
