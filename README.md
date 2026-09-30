@@ -20,37 +20,33 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/diegoserra-estrategiadedados/)
 
 
-<h3 align=
-
 ---
-
 <div align="center">
 
-<a href="https://github.com/diegoserra17">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoserra17&layout=compact&langs_count=6&theme=bear"
-       alt="Linguagens mais utilizadas"/>
-</a>
+<h3>GitHub Stats</h3>
 
-<a href="https://github.com/diegoserra17">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=diegoserra17&show_icons=true&theme=bear&include_all_commits=true&count_private=true"
-       alt="Estatísticas do GitHub"/>
-</a>
+<img
+  height="200"
+  src="https://github-readme-stats-two-omega-43.vercel.app/api?username=diegoserra17&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+/>
+
+<img
+  height="200"
+  src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=diegoserra17&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
+/>
 
 </div>
+
 ---
+
+### 🤖 Linguagens e Tecnologias
 
 <div align="left">
 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 </div>
