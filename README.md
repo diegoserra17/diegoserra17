@@ -10,6 +10,17 @@
 - Python, JavaScript, Power BI, SQL e R são meus aliados para transformar números em decisões: busco automatizar processos com a flexibilidade do Python, mergulhar em análises estatísticas com o rigor do R e criar dashboards e análises no Power BI. Haa... ainda considero o Excel um interessante aliado.
 
 - Busco extrair insights de bancos de dados, para desvendar tendências ou simplesmente falar sobre a arte de transformar conjuntos de dados em estratégias. Vamos trocar ideias (e uns códigos)?
+---
+
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:diegoserra.adm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/diegoserra-estrategiadedados/)
+
+
+<h3 align=
 
 ---
 
