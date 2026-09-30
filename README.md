@@ -21,7 +21,7 @@
 
 
 ---
-<div align="center">
+<div align="left">
 
 <h3>GitHub Stats</h3>
 
