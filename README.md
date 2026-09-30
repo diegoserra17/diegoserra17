@@ -1,6 +1,13 @@
-### Olá! Aqui você encontrará código, café e projetos que nascem entre um commit e outro.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=Bem+vindo+ao+meu+perfil!" alt="Typing SVG">
+  </a>
+</div>
 
-- Aqui, Python, Power BI, SQL e R são meus aliados para transformar números em decisões: busco automatizar processos com a flexibilidade do Python, mergulhar em análises estatísticas com o rigor do R e criar dashboards e análises no Power BI. Haa... ainda considero o Excel um interessante aliado.
+
+### Aqui você encontrará código, café e projetos que nascem entre um commit e outro.
+
+- Python, JavaScript, Power BI, SQL e R são meus aliados para transformar números em decisões: busco automatizar processos com a flexibilidade do Python, mergulhar em análises estatísticas com o rigor do R e criar dashboards e análises no Power BI. Haa... ainda considero o Excel um interessante aliado.
 
 - Busco extrair insights de bancos de dados, para desvendar tendências ou simplesmente falar sobre a arte de transformar conjuntos de dados em estratégias. Vamos trocar ideias (e uns códigos)?
 
