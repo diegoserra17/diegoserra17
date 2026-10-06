@@ -7,7 +7,7 @@
 
 Minha trajetória em tecnologia começou com uma pergunta simples: como transformar problemas do dia a dia em soluções melhores?
 
-Ao longo desse caminho, percebi que tecnologia não se resume a desenvolver código. Ela começa na capacidade de compreender um problema, identificar oportunidades e construir soluções que gerem impacto real para pessoas e negócios.
+Ao longo desse caminho, percebi que tecnologia não é apenas desenvolver código. Ela começa na capacidade de compreender um problema, identificar oportunidades e construir soluções que gerem impacto real para pessoas e negócios.
 
 Hoje, uno desenvolvimento, análise de dados e visão de negócio para transformar informações em decisões mais inteligentes. Utilizo ferramentas como Python, JavaScript, SQL, R, Power BI e Excel para automatizar processos, estruturar informações, identificar padrões, desenvolver indicadores e transformar dados em insights acionáveis.
 
