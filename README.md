@@ -5,11 +5,26 @@
 </div>
 
 
-### Aqui você encontrará código, café e projetos que nascem entre um commit e outro.
+Minha trajetória em tecnologia começou com uma pergunta simples: como transformar problemas do dia a dia em soluções melhores?
 
-- Python, JavaScript, Power BI, SQL e R são meus aliados para transformar números em decisões: busco automatizar processos com a flexibilidade do Python, mergulhar em análises estatísticas com o rigor do R e criar dashboards e análises no Power BI. Haa... ainda considero o Excel um interessante aliado.
+Ao longo desse caminho, percebi que tecnologia não se resume a desenvolver código. Ela começa na capacidade de compreender um problema, identificar oportunidades e construir soluções que gerem impacto real para pessoas e negócios.
 
-- Busco extrair insights de bancos de dados, para desvendar tendências ou simplesmente falar sobre a arte de transformar conjuntos de dados em estratégias. Vamos trocar ideias (e uns códigos)?
+Hoje, uno desenvolvimento, análise de dados e visão de negócio para transformar informações em decisões mais inteligentes. Utilizo ferramentas como Python, JavaScript, SQL, R, Power BI e Excel para automatizar processos, estruturar informações, identificar padrões, desenvolver indicadores e transformar dados em insights acionáveis.
+
+Gosto de questionar processos e buscar novas possibilidades:
+
+Uma tarefa é repetitiva? Pode ser automatizada.
+Um indicador mudou? É preciso entender o porquê.
+Um problema se repete? Talvez exista uma oportunidade de redesenhar o processo.
+Um dado está disponível? Talvez ele revele algo que ainda não estamos enxergando.
+
+Minha abordagem vai além da tecnologia escolhida. Antes de pensar em código, procuro entender o contexto, o objetivo e o impacto da solução no negócio.
+
+Acredito que tecnologia bem aplicada deve produzir resultados: reduzir custos, economizar tempo, aumentar produtividade, melhorar processos e apoiar decisões mais precisas.
+
+Este GitHub é parte dessa jornada: um espaço para compartilhar testes, projetos, análises, experimentos, aprendizados e soluções construídas entre um commit e outro.
+
+Porque, no fim, o código é apenas uma ferramenta. O verdadeiro valor está em transformar tecnologia e dados em soluções capazes de gerar vantagem, eficiência e melhores decisões. 
 ---
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
