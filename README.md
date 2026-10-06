@@ -24,7 +24,7 @@ Acredito que tecnologia bem aplicada deve produzir resultados: reduzir custos, e
 
 Este GitHub é parte dessa jornada: um espaço para compartilhar testes, projetos, análises, experimentos, aprendizados e soluções construídas entre um commit e outro.
 
-Porque, no fim, o código é apenas uma ferramenta. O verdadeiro valor está em transformar tecnologia e dados em soluções capazes de gerar vantagem, eficiência e melhores decisões. 
+### Porque, no fim, o código é apenas uma ferramenta. O verdadeiro valor está em transformar tecnologia e dados em soluções capazes de gerar vantagem, eficiência e melhores decisões. 
 ---
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
