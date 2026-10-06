@@ -13,10 +13,10 @@ Hoje, uno desenvolvimento, análise de dados e visão de negócio para transform
 
 Gosto de questionar processos e buscar novas possibilidades:
 
-Uma tarefa é repetitiva? Pode ser automatizada.
-Um indicador mudou? É preciso entender o porquê.
-Um problema se repete? Talvez exista uma oportunidade de redesenhar o processo.
-Um dado está disponível? Talvez ele revele algo que ainda não estamos enxergando.
+- Uma tarefa é repetitiva? Pode ser automatizada.
+- Um indicador mudou? É preciso entender o porquê.
+- Um problema se repete? Talvez exista uma oportunidade de redesenhar o processo.
+- Um dado está disponível? Talvez ele revele algo que ainda não estamos enxergando.
 
 Minha abordagem vai além da tecnologia escolhida. Antes de pensar em código, procuro entender o contexto, o objetivo e o impacto da solução no negócio.
 
